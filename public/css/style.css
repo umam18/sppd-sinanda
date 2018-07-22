@@ -1,0 +1,61 @@
+.content{
+width:100%;
+}
+
+.main{
+width: 80%;
+}
+
+#progressbar{
+margin:0;
+padding:0;
+font-size:18px;
+}
+
+.active{
+color:red;
+background-color: azure;
+}
+
+fieldset{
+background-color: azure;
+text-align: center;
+display:none;
+width: 100%;
+padding:20px;
+margin-top: 20px;
+padding-right: 40px;
+border-radius:5px;
+box-shadow: 3px 3px 25px 1px gray;
+}
+
+#first{
+background-color: azure;
+display:block;
+width: 100%;
+padding:20px;
+padding-right: 40px;
+margin-top:20px;
+border-radius:5px;
+box-shadow: 3px 3px 25px 1px gray;
+}
+
+input[type=submit],
+input[type=button]{
+width: 60px;
+padding: 5px;
+height: 30px;
+background-color: sienna;
+border: none;
+border-radius: 4px;
+color: white;
+}
+
+h2,p{
+text-align:center;
+}
+
+li{
+margin-right:52px;
+display:inline;
+}

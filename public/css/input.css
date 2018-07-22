@@ -1,0 +1,55 @@
+.event{
+    font-size: 16px;
+}
+
+#center{
+    display: inline-block;;
+    position: fixed;
+    left: 50%;
+}
+
+.event:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.pejabat{
+    float: left;
+    width: 20%; 
+}
+
+.bertugas{
+    float: left;
+    width: 16.5%; 
+}
+
+.pjt{
+    float: left;
+    width: 33.33%; 
+}
+
+.mbt{
+    float: left;
+    width: 33.33%; 
+}
+
+.transportasi{
+    float: left;
+    width: 25%; 
+}
+
+.transportasi{
+    float: left;
+    width: 20%; 
+}
+
+.akun{
+    float: left;
+    width: 100%; 
+}
+
+.coba{
+    float: left;
+    width: 25%;   
+}
