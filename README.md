@@ -1,7 +1,7 @@
 ## Description
  + Aplikasi ini dibuat untuk memenuhi tugas magang di KEMKOMINFO Jakarta Pusat menggunakan Framework LARAVEL
  
- + Untuk mendownload database, silahkan hubungi email berikut : umam_snake@yahoo.co.id
+ + Untuk mendownload database, silahkan hubungi email berikut : achma.u18@gmail.com
 
 ## Available functionalities:
 
